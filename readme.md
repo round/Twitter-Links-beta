@@ -11,4 +11,4 @@
 
 &nbsp;
 
-Please be sure to provide feedback by filing an issue to **[report a bug ⛔️](https://github.com/round/Twitter-Links-beta/issues/new?template=bug.md)** or **[suggest a feature ❇️](https://github.com/round/Twitter-Links-beta/issues/new?template=feature.md)**.
+Please be sure to provide feedback by filing an issue to **[report a bug ⛔️](https://github.com/round/Twitter-Links-beta/issues/new?labels=⛔%EF%B8%8Fbug&template=bug.md)** or **[suggest a feature ❇️](https://github.com/round/Twitter-Links-beta/issues/new?labels=❇%EF%B8%8F%20feature&template=feature.md)**.
