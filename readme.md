@@ -12,7 +12,7 @@
 Please be sure to provide feedback by filing an issue to **[report a bug ⛔️](https://github.com/round/Twitter-Links-beta/issues/new?labels=⛔%EF%B8%8Fbug&template=bug.md)** or **[suggest a feature ❇️](https://github.com/round/Twitter-Links-beta/issues/new?labels=❇%EF%B8%8F%20feature&template=feature.md)** or send a **[message on Twitter 🐦](https://twitter.com/messages/compose?recipient_id=15300655&text=I%20have%20some%20feedback%20about%20Twitter%20Links%E2%80%A6
 )**.
 
-### Planned Features
+## Planned Features
 
 * Button clicks to toggle popup window for each tab
 * Remove nonessential UI elements from the popup wepage
