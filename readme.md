@@ -1,4 +1,5 @@
-# Twitter Links (Beta)
+# &nbsp;![Icon](https://raw.githubusercontent.com/round/Twitter-Links-beta/master/icon32.png) Twitter Links (Beta)
+
 
 1. Download the [latest release ⬇️](https://github.com/round/TypeSmart-beta/releases/latest).
 2. Go to 'Extensions' in Chrome (`chrome://extensions`).
