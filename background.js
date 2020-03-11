@@ -1,8 +1,7 @@
 function openSearch(tab) {
 
   chrome.windows.getCurrent(function(currentWindow) {
-    //add per-tab logic and toggle / focus logic
-    TwitterLinksPopup = window.open('http://twitter.com/search?f=live&q=' + tab.url.split('?')[0] + '%20filter%3Alinks', 'TwitterLinks-' + tab.id, 'top=' + (currentWindow.top + (currentWindow.height - tab.height)) + ', left=' +
+    TwitterLinksPopup = window.open('http://twitter.com/search?f=live&q=' + tab.url.split('?')[0] + '%20filter%3Alinks', 'TwitterLinks-' + tab.id, 'top=' + (currentWindow.top + (currentWindow.height - tab.height)) + ', left=' + (currentWindow.left + tab.width - 500) + ', width=500, height=' + tab.height);
   });
 }
 
