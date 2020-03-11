@@ -1,0 +1,25 @@
+{
+	"manifest_version": 2,
+	"name": "Twitter Links",
+	"version": "0.5",
+	"description": "Description",
+	"author": "Maxim Leyzerovich",
+	"homepage_url": "https://twitter.com/round",
+	"icons": {
+		"16": "icon16.png",
+		"32": "icon32.png",
+		"48": "icon64.png",
+		"64": "icon64.png",
+		"128": "icon128.png"
+	},
+	"browser_action": {
+		 "default_title": "Who tweeted this\u2026"
+	 },
+ 	"permissions": [
+		"activeTab",
+	  "contextMenus"
+	 ],
+	"background": {
+		"scripts":["background.js"]
+	}
+}
