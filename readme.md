@@ -5,15 +5,11 @@
 3. Enable 'Developer Mode' in the top right.
 4. Click 'Load Unpacked' and select the unzipped extension folder.
 
-&nbsp;
-&nbsp;
 ![screenshot](https://camo.githubusercontent.com/edc65aa854e00ac2021a8bda200bc7b606a6ed14/68747470733a2f2f692e696d6775722e636f6d2f786463686451612e706e67)
-
-&nbsp;
 
 ## Feedback
 
-Please be sure to provide feedback by filing an issue to **[report a bug ⛔️](https://github.com/round/Twitter-Links-beta/issues/new?labels=⛔%EF%B8%8Fbug&template=bug.md)** or **[suggest a feature ❇️](https://github.com/round/Twitter-Links-beta/issues/new?labels=❇%EF%B8%8F%20feature&template=feature.md)** or **[message me on Twitter 🐦](https://twitter.com/messages/compose?recipient_id=15300655&text=I%20have%20some%20feedback%20about%20Twitter%20Links%E2%80%A6
+Please be sure to provide feedback by filing an issue to **[report a bug ⛔️](https://github.com/round/Twitter-Links-beta/issues/new?labels=⛔%EF%B8%8Fbug&template=bug.md)** or **[suggest a feature ❇️](https://github.com/round/Twitter-Links-beta/issues/new?labels=❇%EF%B8%8F%20feature&template=feature.md)** or send a **[message on Twitter 🐦](https://twitter.com/messages/compose?recipient_id=15300655&text=I%20have%20some%20feedback%20about%20Twitter%20Links%E2%80%A6
 )**.
 
 ### Planned Features
