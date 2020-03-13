@@ -1,7 +1,7 @@
 # &nbsp;![Icon](https://raw.githubusercontent.com/round/Twitter-Links-beta/master/icon32.png) Twitter Links (Beta)
 
 1. Download the [latest release ⬇️](https://github.com/round/Twitter-Links-beta/releases/latest).
-2. Go to 'Extensions' in Chrome (`chrome://extensions`).
+2. Go to 'Extensions' in Chrome (`chrome://extensions`) or Edge (`edge://extensions`).
 3. Enable 'Developer Mode' in the top right.
 4. Click 'Load Unpacked' and select the unzipped extension folder.
 
