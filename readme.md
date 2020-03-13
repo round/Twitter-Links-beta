@@ -15,6 +15,4 @@ Please be sure to provide feedback by filing an issue to **[report a bug ⛔️]
 ## Planned Features
 
 * Button clicks to toggle popup window for each tab
-* Remove nonessential UI elements from the popup wepage
 * Experimental: open results in native Chrome popover
-* Maybe: settings for Top vs Latest and/or 'People You Follow'
