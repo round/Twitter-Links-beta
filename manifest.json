@@ -23,8 +23,7 @@
 		"scripts":["background.js"]
 	},
 	"content_scripts": [{
-		"matches": ["<all_urls>"],
-		"js": ["content.js"],
-		"all_frames": true
+		"matches": ["*://twitter.com/*&TwitterLinks"],
+		"js": ["content.js"]
 	}]
 }
