@@ -33,7 +33,7 @@ document.head.appendChild(style);
 
 // document.title = 'Loading Twitter Links\u2026';
 
-var extensionTitle = 'Twitter links to this page\u2026';
+var extensionTitle = 'Twitter links to this page:';
 window.setInterval(function() {
     if (document.title !== extensionTitle) {
       document.title = extensionTitle;

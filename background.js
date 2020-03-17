@@ -9,7 +9,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 });
 
 chrome.contextMenus.create({
-  title: "Twitter links to this page:"
+  title: "Twitter links to this page\u2026"
 });
 
 chrome.contextMenus.onClicked.addListener(function(info, tab) {
