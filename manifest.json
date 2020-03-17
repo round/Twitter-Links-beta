@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Twitter Links",
-	"version": "0.6",
+	"version": "0.7",
 	"description": "Show the latest tweets that link to the current page.",
 	"author": "Maxim Leyzerovich",
 	"homepage_url": "https://twitter.com/round",
