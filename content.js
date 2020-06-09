@@ -1,7 +1,7 @@
 var style = document.createElement('style');
 style.innerHTML = `
 header[role="banner"],
-div[data-testid="primaryColumn"] > div:first-child > div:first-child > div:first-child {
+div[data-testid="primaryColumn"] > div:first-child > div:first-child > div:first-child  > div:first-child  > div:first-child > div:first-child > div:first-child > div:first-child {
 		display: none !important;
 }
 
@@ -35,7 +35,7 @@ document.head.appendChild(style);
 
 var extensionTitle = 'Twitter links to this page:';
 window.setInterval(function() {
-    if (document.title !== extensionTitle) {
-      document.title = extensionTitle;
-    }
+  if (document.title !== extensionTitle) {
+    document.title = extensionTitle;
+  }
 }, 100);
