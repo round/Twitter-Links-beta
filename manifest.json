@@ -1,5 +1,5 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "Twitter Links",
 	"version": "0.7",
 	"description": "Show the latest tweets that link to the current page.",
@@ -12,7 +12,7 @@
 		"64": "icon64.png",
 		"128": "icon128.png"
 	},
-	"browser_action": {
+	"action": {
 		 "default_title": "Twitter links to this page\u2026"
 	 },
  	"permissions": [
@@ -20,7 +20,7 @@
 	  "contextMenus"
 	 ],
 	"background": {
-		"scripts":["background.js"]
+		"service_worker": "background.js"
 	},
 	"content_scripts": [{
 		"matches": ["*://twitter.com/*&TwitterLinks"],
